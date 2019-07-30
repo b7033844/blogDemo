@@ -1,2 +1,2 @@
-$ dig blog.SuperSASS.com +nostats +nocomments +nocmd
-SuperSASS.com.   3600  IN  A 185.199.108.153
+$ dig githubSuperSASS.com +nostats +nocomments +nocmd
+githubSuperSASS.com.   3600  IN  A 185.199.108.153
