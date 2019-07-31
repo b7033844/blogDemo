@@ -8,7 +8,7 @@
   * 域名使用腾讯云，使用七牛进行访问加速
   * 视频微处理，以实现在线播放
   * 使用HTML5、Canvas等完成博客主体的搭建
-  
+  网页展示地址：https://b7033844.github.io/blogDemo/.
 附
 ==
 * cc文件夹下为一套类似相册的demo，以前弄着玩的，展示地址为：https://xiaohegithub.cn/cc/
